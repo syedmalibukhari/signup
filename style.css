@@ -12,7 +12,7 @@ body {
 }
 
 .outer-box {
-    width: 100vv;
+    width: 150vv;
     height: 150vh;
     background: linear-gradient(to bottom right, yellow, orange);
 }
@@ -29,7 +29,7 @@ body {
     border-radius: 62px;
     box-shadow: 4px 4px 12px red;
     backdrop-filter: blur(4px);
-    z-index: 4;
+    z-index: 2;
 }
 
 .signup-header h1 {
@@ -105,5 +105,5 @@ body {
 
 .sh2 {
     bottom: -380px;
-    right: -7%;
+    right: -9%;
 }
